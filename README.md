@@ -1,6 +1,6 @@
 
 # PSGBD_DB_FOX
-![DB_FOX logo](https://i.ibb.co/Wfb959P/logo.png =150x150)
+<img src="https://i.ibb.co/Wfb959P/logo.png" alt="DB_FOX logot" width="150" height="150">
 
 | Author | App name | Version | Source |
 |--|--|--|--|
