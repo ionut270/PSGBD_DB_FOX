@@ -9,7 +9,7 @@
 ## Quick notes
 
 Run by using `npm start` command.
-The purpose of this app is to complete a `Computer Scrience` homework.
+The purpose of this app is to complete a `Computer Science` homework.
 
 
 #### Dependencies : 
