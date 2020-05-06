@@ -38,6 +38,5 @@ Each route handler's, init's & workers, should have they'r own individual files.
 - Request errors should throw back to the client an object as follows `{ "err" : [Object] }`
 #### Avaiable routes : 
 - /get_students - Returns a list of all the students present in the database
-- 
 ## Cerinte : 
 - [x] Make a connection to the Oracle database server from your own application written in the programming language you like best (C ++, Java, PHP, Python, etc.) and retrieve a series of data from a table of your choice on which you will display in the application.
